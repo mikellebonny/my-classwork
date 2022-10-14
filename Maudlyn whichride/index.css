@@ -1,0 +1,133 @@
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 250px;
+}
+.break {
+  margin-right: 35px;
+  list-style: none;
+  font-size: 18px;
+  display: flex;
+}
+
+.topname {
+  display: flex;
+  justify-items: center;
+}
+
+.topname ul {
+  display: flex;
+  align-items: center;
+}
+
+.topname ul li {
+  margin-right: 35px;
+  list-style: none;
+  font-size: 18px;
+}
+.ifone {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 400px;
+}
+.ifone h1 {
+  font-size: 50px;
+}
+.homeboy {
+  background-color: #5c1a8d;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.homeboy h2 {
+  align-items: center;
+  /* padding-left: 300px;
+    margin-left: 300px; */
+  color: white;
+  padding-top: 55px;
+}
+.homeboy p {
+  color: white;
+}
+.book {
+  border-radius: 30px;
+  height: 60px;
+  width: 60px;
+  background-color: #f2c94c;
+}
+.booking {
+  border-radius: 30px;
+  height: 60px;
+  width: 60px;
+  background-color: white;
+  /* align-items: ; */
+}
+.booklet h3 {
+  color: white;
+}
+.booklet {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 70%;
+}
+
+.yy {
+  background-color: #56ccf2;
+  border-radius: 50px;
+  height: 100px;
+  width: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.yyone {
+  size: 50px;
+}
+.ff {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 70px ;margin: 0 auto;
+}
+.my {
+  background-color: #6fcf97;
+  border-radius: 50px;
+  height: 100px;
+  width: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.ny {
+  background-color:#F2C94C;
+  border-radius: 50px;
+  height: 100px;
+  width: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.sy{
+  background-color:#BB6BD9;
+  border-radius: 50px;
+  height: 100px;
+  width: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center
+}
+.redpen{
+  display: flex;
+  flex-direction: column;
+}
+.redpen h1{
+  text-align: center;
+}
+.nene{
+  font-size: 20px;
+  font-weight: 20px;
+}
